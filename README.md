@@ -4,7 +4,7 @@
 [![Linkedin: adalbertosantos](https://img.shields.io/badge/-Adalberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalbertosantos/)](https://www.linkedin.com/in/adalbertosantos/)
 [![GitHub Adalberto](https://img.shields.io/github/followers/AdeOSantos?label=follow&style=social)](https://github.com/AdeOSantos)
 [![Twitter: AdalbasSantos](https://img.shields.io/twitter/follow/AdalbasSantos?style=social)](https://twitter.com/AdalbasSantos)
- 
+ '''
 
 <p align="center">
 <img  src= "https://user-images.githubusercontent.com/35299134/145861129-f9e80a96-3ffe-4a53-8ff3-6c18f2e6ee23.gif" width="230">
@@ -19,10 +19,17 @@
 
 
 
+🔭 I’m currently working as **Software Engineering Manager @ RGP**
+- 🌱 I’m currently learning **Machine Learning**
+- 👯 I’m looking to collaborate on open source/commercial projects.
+- 🤔 I’m looking for cool projects.
+- 💬 Ask me about **Software Development**
+- 📫 How to reach me:
+[![Linkedin: adalbertosantos](https://img.shields.io/badge/-Adalberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalbertosantos/)](https://www.linkedin.com/in/adalbertosantos/)
+[![GitHub Adalberto](https://img.shields.io/github/followers/AdeOSantos?label=follow&style=social)](https://github.com/AdeOSantos)
+[![Twitter: AdalbasSantos](https://img.shields.io/twitter/follow/AdalbasSantos?style=social)](https://twitter.com/AdalbasSantos)
 
-
-
-<h2> <img src="https://media4.giphy.com/media/YFI228BXc2LX3AmGBx/giphy.gif" width="100"> <b>A little more about me...</b>  
+<h2> <img src="https://media4.giphy.com/media/YFI228BXc2LX3AmGBx/giphy.gif" width="100"> <b>A little about me...</b>  
 </h2>
 
 
