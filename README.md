@@ -37,17 +37,7 @@
 
 
 ```javascript
-const adalberto = {
-  pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+{
 
 
 Front-End: HTML 5, CSS 3, JavaScript, JS Frameworks (React), JS Tools (NPM/Yarn).
