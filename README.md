@@ -3,7 +3,7 @@
  
 
 
-<!-- <img style='text-align:right;'src="https://user-images.githubusercontent.com/35299134/145861129-f9e80a96-3ffe-4a53-8ff3-6c18f2e6ee23.gif" width="230"> -->
+<img style='text-align:right;'src="https://user-images.githubusercontent.com/35299134/145861129-f9e80a96-3ffe-4a53-8ff3-6c18f2e6ee23.gif" width="230">
 
 <p><em>Robotics Enginner from <a href="http://www.unicamp.br">University of Campinas</a><img src="https://media4.giphy.com/media/26Fxyb9XBjrJlXCX6/giphy.gif" width="60">
 </br>Consultant at <a href="https://www.rgp.com">RGP - Resources Global Professionals®</a><img src="https://media2.giphy.com/media/1ykTWhTUuSmlTAAVmH/giphy.gif" width="60"> 
