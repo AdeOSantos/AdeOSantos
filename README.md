@@ -4,7 +4,7 @@
 [![Linkedin: adalbertosantos](https://img.shields.io/badge/-Adalberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalbertosantos/)](https://www.linkedin.com/in/adalbertosantos/)
 [![GitHub Adalberto](https://img.shields.io/github/followers/AdeOSantos?label=follow&style=social)](https://github.com/AdeOSantos)
 [![Twitter: AdalbasSantos](https://img.shields.io/twitter/follow/AdalbasSantos?style=social)](https://twitter.com/AdalbasSantos)
- '''
+ 
 
 <p align="center">
 <img  src= "https://user-images.githubusercontent.com/35299134/145861129-f9e80a96-3ffe-4a53-8ff3-6c18f2e6ee23.gif" width="230">
@@ -19,11 +19,11 @@
 
 
 
-🔭 I’m currently working as **Software Engineering Manager @ RGP**
-- 🌱 I’m currently learning **Machine Learning**
+🔭 I’m currently working as **Software Engineering Manager @ RGP.**
+- 🌱 I’m currently learning **Machine Learning.**
 - 👯 I’m looking to collaborate on open source/commercial projects.
 - 🤔 I’m looking for cool projects.
-- 💬 Ask me about **Software Development**
+- 💬 Ask me about **Software Development.**
 - 📫 How to reach me:
 [![Linkedin: adalbertosantos](https://img.shields.io/badge/-Adalberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalbertosantos/)](https://www.linkedin.com/in/adalbertosantos/)
 [![GitHub Adalberto](https://img.shields.io/github/followers/AdeOSantos?label=follow&style=social)](https://github.com/AdeOSantos)
@@ -51,7 +51,9 @@ const thai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+<img src="https://media4.giphy.com/media/JjCmhRQjHg6TcnraxJ/giphy.gif?cid=ecf05e474cwtnbjuudj4hcvi601ykb50l55as7g8gvfdhn7o" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 <p align="center">
