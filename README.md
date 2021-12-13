@@ -37,8 +37,8 @@
 
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const adalberto = {
+  pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
@@ -48,6 +48,23 @@ const thai = {
                         mentor: "EducaTRANSforma"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+
+
+Front-End: HTML 5, CSS 3, JavaScript, JS Frameworks (React), JS Tools (NPM/Yarn).
+Back-End: C#, Java, Python.
+Frameworks: MVC, WCF, WPF, XAML, ADO.NET, LINQ, WinForms, Entity Framework, C# .Net Core, Asp.Net Core.
+Visualization tools and analytics: Power BI, Tableau, Excel, Matlab, VBA.
+Relational databases: MS SQL Server, Oracle, MySQL.
+No Relational databases (NoSQL): MongoDB.
+Frameworks Javascript: React.
+DevOps: Git, SVN, Azure DevOps Server.
+Management software: Jira, Confluence, Workday, Trello, MS Project, MS Visio.
+Project methodologies: Agile Methodology, Scrum, Kanban, Waterfall e XP.
+IDEs: Visual Studio, Eclipse, Visual Studio Code.
+Cloud: AWS, Google Cloud, Azure.
+
+
+
 }
 ```
 
