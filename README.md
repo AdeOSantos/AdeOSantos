@@ -41,15 +41,14 @@
 
 const AdalbertoSantos = {
 
-    Front-End: [HTML 5, CSS 3, JavaScript, JS Frameworks (React), JS Tools (NPM/Yarn)],
+    Front-End: ["HTML 5", "CSS 3", "JavaScript", "JS Frameworks (React)", "JS Tools (NPM/Yarn)"],
     Back-End: [C#, Java, Python],
     Frameworks: [MVC, WCF, WPF, XAML, ADO.NET, LINQ, WinForms, Entity Framework, C# .Net Core, Asp.Net Core],
-    Visualization tools and analytics: [Power BI, Tableau, Excel, Matlab, VBA]
-    Relational databases: [MS SQL Server, Oracle, MySQL]
+    Visualization tools and analytics: [Power BI, Tableau, Excel, Matlab, VBA],
+    Relational databases: [MS SQL Server, Oracle, MySQL],
     No Relational databases (NoSQL): [MongoDB],
     Frameworks Javascript: [React],
     DevOps: [Git, SVN, Azure DevOps Server, Docker, Kubernets],
-
     Management software: [Jira, Confluence, Workday, Trello, MS Project, MS Visio],
     Project methodologies: [Agile Methodology, Scrum, Kanban, Waterfall e XP],
     IDEs: [Visual Studio, Eclipse, Visual Studio Code],
