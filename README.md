@@ -1,4 +1,4 @@
-<h1> Hi, I'm Adalberto Santos! Welcome to my coding repository where I throw all my stuff!<img src="https://media4.giphy.com/media/4aBQ9oNjgEQ2k/giphy.gif" width="60"> </h1>
+<h1> Hi, I'm Adalberto Santos! Welcome to my coding repository, where I throw all my stuff!<img src="https://media4.giphy.com/media/4aBQ9oNjgEQ2k/giphy.gif" width="60"> </h1>
 
 
 [![Linkedin: adalbertosantos](https://img.shields.io/badge/-Adalberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalbertosantos/)](https://www.linkedin.com/in/adalbertosantos/)
@@ -12,10 +12,8 @@
 
 
 
-
-
 <p><em>Robotics Enginner at <a href="http://www.unicamp.br">UNICAMP - University of Campinas</a><img src="https://media4.giphy.com/media/26Fxyb9XBjrJlXCX6/giphy.gif" width="60">
-<p><em>MBA at <a href="https://portal.fgv.br/">FGV - Fundação Getúlio Vargas</a><img src="https://media4.giphy.com/media/26Fxyb9XBjrJlXCX6/giphy.gif" width="60">
+<p><em>MBA at <a href="https://portal.fgv.br/">FGV - Fundação Getúlio Vargas</a><img src="https://media1.giphy.com/media/GctLFRJMPu9Zm/giphy.gif?cid=790b761183e07d8f30dbab327dd410782bfce18c41453a65" width="60">
 </br>Consultant at <a href="https://www.rgp.com">RGP - Resources Global Professionals®</a><img src="https://media2.giphy.com/media/1ykTWhTUuSmlTAAVmH/giphy.gif" width="60"> 
 </em></p>
 
