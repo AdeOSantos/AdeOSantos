@@ -61,7 +61,7 @@ const AdalbertoSantos = {
 
 
 
-<img src="https://media4.giphy.com/media/JjCmhRQjHg6TcnraxJ/giphy.gif?cid=ecf05e474cwtnbjuudj4hcvi601ykb50l55as7g8gvfdhn7o" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media4.giphy.com/media/JjCmhRQjHg6TcnraxJ/giphy.gif?cid=ecf05e474cwtnbjuudj4hcvi601ykb50l55as7g8gvfdhn7o" width="60"> <em><b>It's cool to meet new people!</b> Just say <b>Hi!</b> And let's connect!</em>
 
 
 <p align="center">
