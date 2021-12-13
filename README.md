@@ -1,7 +1,12 @@
 <h1> Hi, I'm Adalberto Santos! Welcome to my coding repository where I throw all my stuff!<img src="https://media4.giphy.com/media/4aBQ9oNjgEQ2k/giphy.gif" width="60"> </h1>
 
- 
-<p style='text-align: center;'>
+<p>
+[![Linkedin: adalbertosantos](https://img.shields.io/badge/-Adalberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalbertosantos/)](https://www.linkedin.com/in/adalbertosantos/)
+[![GitHub Adalberto](https://img.shields.io/github/followers/AdeOSantos?label=follow&style=social)](https://github.com/AdeOSantos)
+[![Twitter: AdalbasSantos](https://img.shields.io/twitter/follow/AdalbasSantos?style=social)](https://twitter.com/AdalbasSantos)
+ </p>
+
+<p align="center">
 <img  src= "https://user-images.githubusercontent.com/35299134/145861129-f9e80a96-3ffe-4a53-8ff3-6c18f2e6ee23.gif" width="230">
 </p>
 
@@ -15,9 +20,6 @@
 </em></p>
 
 
-[![Linkedin: adalbertosantos](https://img.shields.io/badge/-Adalberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalbertosantos/)](https://www.linkedin.com/in/adalbertosantos/)
-[![GitHub Adalberto](https://img.shields.io/github/followers/AdeOSantos?label=follow&style=social)](https://github.com/AdeOSantos)
-[![Twitter: AdalbasSantos](https://img.shields.io/twitter/follow/AdalbasSantos?style=social)](https://twitter.com/AdalbasSantos)
 
 
 
