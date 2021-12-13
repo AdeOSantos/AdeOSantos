@@ -1,23 +1,26 @@
-<h2> Hi, I'm Adalberto Santos! <img src="https://media4.giphy.com/media/4aBQ9oNjgEQ2k/giphy.gif" width="60"> </h2>
+<h1> Hi, I'm Adalberto Santos! Welcome to my coding repository where I throw all my stuff!<img src="https://media4.giphy.com/media/4aBQ9oNjgEQ2k/giphy.gif" width="60"> </h1>
 
  
 
+<p style='text-align: center;'><img style='text-align:right;'src="https://user-images.githubusercontent.com/35299134/145861129-f9e80a96-3ffe-4a53-8ff3-6c18f2e6ee23.gif" width="230"></p>
 
-<img style='text-align:right;'src="https://user-images.githubusercontent.com/35299134/145861129-f9e80a96-3ffe-4a53-8ff3-6c18f2e6ee23.gif" width="230">
 
-<p><em>Robotics Enginner from <a href="http://www.unicamp.br">University of Campinas</a><img src="https://media4.giphy.com/media/26Fxyb9XBjrJlXCX6/giphy.gif" width="60">
+
+<p><em>Robotics Enginner at <a href="http://www.unicamp.br">UNICAMP - University of Campinas</a><img src="https://media4.giphy.com/media/26Fxyb9XBjrJlXCX6/giphy.gif" width="60">
+<p><em>MBA at <a href="https://portal.fgv.br/">FGV - Fundação Getúlio Vargas</a><img src="https://media4.giphy.com/media/26Fxyb9XBjrJlXCX6/giphy.gif" width="60">
 </br>Consultant at <a href="https://www.rgp.com">RGP - Resources Global Professionals®</a><img src="https://media2.giphy.com/media/1ykTWhTUuSmlTAAVmH/giphy.gif" width="60"> 
 </em></p>
 
 
-
-[![Twitter: AdalbasSantos](https://img.shields.io/twitter/follow/AdalbasSantos?style=social)](https://twitter.com/AdalbasSantos)
 [![Linkedin: adalbertosantos](https://img.shields.io/badge/-Adalberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalbertosantos/)](https://www.linkedin.com/in/adalbertosantos/)
 [![GitHub Adalberto](https://img.shields.io/github/followers/AdeOSantos?label=follow&style=social)](https://github.com/AdeOSantos)
+[![Twitter: AdalbasSantos](https://img.shields.io/twitter/follow/AdalbasSantos?style=social)](https://twitter.com/AdalbasSantos)
 
 
-<h3> <img src="https://media4.giphy.com/media/YFI228BXc2LX3AmGBx/giphy.gif" width="100"> <b>A little more about me...</b>  
-</h3>
+
+
+<h2> <img src="https://media4.giphy.com/media/YFI228BXc2LX3AmGBx/giphy.gif" width="100"> <b>A little more about me...</b>  
+</h2>
 
 <p style='text-align: center;'>
 <img  src= "https://user-images.githubusercontent.com/35299134/141830781-4c2b7a14-8608-4690-8fb9-0e76d0bba581.gif" width="250">
@@ -41,6 +44,17 @@ const thai = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AdeOSantos&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeOSantos&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=AdeOSantos&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/AdeOSantos"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="AdeOSantos" /></a>
+</p>
+
 
 --- 
 
