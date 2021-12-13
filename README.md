@@ -1,4 +1,4 @@
-<h1> Hi, I'm Adalberto Santos! Welcome to my coding repository, where I throw all my stuff!<img src="https://media4.giphy.com/media/4aBQ9oNjgEQ2k/giphy.gif" width="60"> </h1>
+<h1 style="color:DodgerBlue;"> Hi, I'm Adalberto Santos! Welcome to my coding repository, where I throw all my stuff!<img src="https://media4.giphy.com/media/4aBQ9oNjgEQ2k/giphy.gif" width="60"> </h1>
 
 
 [![Linkedin: adalbertosantos](https://img.shields.io/badge/-Adalberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalbertosantos/)](https://www.linkedin.com/in/adalbertosantos/)
