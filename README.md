@@ -1,8 +1,11 @@
 <h1> Hi, I'm Adalberto Santos! Welcome to my coding repository where I throw all my stuff!<img src="https://media4.giphy.com/media/4aBQ9oNjgEQ2k/giphy.gif" width="60"> </h1>
 
  
+<p style='text-align: center;'>
+<img  src= "https://user-images.githubusercontent.com/35299134/145861129-f9e80a96-3ffe-4a53-8ff3-6c18f2e6ee23.gif" width="230">
+</p>
 
-<p style='text-align: center;'><img style='text-align:right;'src="https://user-images.githubusercontent.com/35299134/145861129-f9e80a96-3ffe-4a53-8ff3-6c18f2e6ee23.gif" width="230"></p>
+
 
 
 
@@ -22,9 +25,7 @@
 <h2> <img src="https://media4.giphy.com/media/YFI228BXc2LX3AmGBx/giphy.gif" width="100"> <b>A little more about me...</b>  
 </h2>
 
-<p style='text-align: center;'>
-<img  src= "https://user-images.githubusercontent.com/35299134/141830781-4c2b7a14-8608-4690-8fb9-0e76d0bba581.gif" width="250">
-</p>
+
 
 
 
