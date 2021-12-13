@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 [![Header](https://raw.githubusercontent.com/AdeOSantos/<OWNER>/<OWNER>/readme_header.png "Header")](https://user-images.githubusercontent.com/35299134/141830781-4c2b7a14-8608-4690-8fb9-0e76d0bba581.gif)
 ![adalberto_github_gif](https://user-images.githubusercontent.com/35299134/141830781-4c2b7a14-8608-4690-8fb9-0e76d0bba581.gif)
+![adalberto_github_gif_cropped](https://user-images.githubusercontent.com/35299134/145861129-f9e80a96-3ffe-4a53-8ff3-6c18f2e6ee23.gif)
