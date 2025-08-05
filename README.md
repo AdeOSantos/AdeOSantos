@@ -1,11 +1,12 @@
 <h1 align="center" style="color:DodgerBlue;">
-  Hi, I'm Adalberto Santos! 👋 Welcome to my coding repository!
-  <img src="https://media4.giphy.com/media/4aBQ9oNjgEQ2k/giphy.gif" width="60">
+  Hey, I'm Adalberto Santos! 👋
+  <br>
+  <small>Tech Manager | Engineering Leader | Java & Cloud Specialist</small>
 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adalbertosantos/">
-    <img src="https://img.shields.io/badge/-Adalberto-blue?style=flat-square&logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="https://github.com/AdeOSantos">
     <img src="https://img.shields.io/github/followers/AdeOSantos?label=follow&style=social">
@@ -15,47 +16,39 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/35299134/145861129-f9e80a96-3ffe-4a53-8ff3-6c18f2e6ee23.gif" width="230">
-</p>
-
 ---
 
 ### 🚀 About Me
 
-🎓 Graduated in **Robotics Engineering** from [UNICAMP](http://www.unicamp.br)  
-🎓 MBA from [FGV - Fundação Getúlio Vargas](https://portal.fgv.br/)  
-💼 Currently a **Software Engineering Manager @ RGP - Resources Global Professionals®**
+I'm a Software Engineering Manager with 15+ years of experience delivering scalable backend systems and leading high-performing teams across LATAM. I'm passionate about solving complex problems through clean architecture, cloud-native development, and intentional leadership.
+
+I'm currently focused on technical leadership, systems design, platform scalability, and mentoring the next generation of engineers.
+
+💡 Open to global opportunities | 🌍 Fluent in English, Spanish & Portuguese  
 
 ---
 
-### 🧠 Currently...
+### 🧠 I’m currently:
 
-- 🔭 Working on leadership and scalable software architectures
-- 🌱 Learning Machine Learning & AI
-- 🤝 Open to collaborations on impactful and meaningful projects
-- 💬 Ask me about Software Development, Cloud, or Engineering Management
+- 🔭 Driving backend architecture modernization with Java 17, Spring Boot, Docker, and Kubernetes
+- 🧭 Transitioning toward an executive technology leadership role (CTO Track)
+- 👨‍🏫 Mentoring engineers on software architecture, team dynamics, and career growth
+- 📚 Exploring distributed systems, streaming data, and technical storytelling
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Toolbox
 
-```javascript
+```java
 const AdalbertoSantos = {
-  FrontEnd: ["HTML5", "CSS3", "JavaScript", "React"],
-  BackEnd: ["C#", "Java", "Python"],
-  Frameworks: [
-    "ASP.NET Core", "Entity Framework", "Spring Boot",
-    "MVC", "WCF", "WPF", "WinForms"
-  ],
-  Databases: {
-    relational: ["SQL Server", "Oracle", "MySQL"],
-    noSQL: ["MongoDB"]
-  },
-  DevOps: ["Git", "Docker", "Kubernetes", "Azure DevOps", "SVN"],
-  Cloud: ["AWS", "Google Cloud", "Azure"],
-  Visualization: ["Power BI", "Tableau", "Excel", "Matlab"],
-  Tools: ["Jira", "Confluence", "Trello", "Workday"],
-  IDEs: ["Visual Studio", "VS Code", "Eclipse"],
-  Methodologies: ["Agile", "Scrum", "Kanban", "Waterfall", "XP"]
+  Languages: ["Java (8–17)", "Python", "JavaScript"],
+  Frameworks: ["Spring Boot", "Spring Data", "Spring Security", "Jakarta EE", "Quarkus"],
+  Cloud: ["AWS (EC2, S3, RDS, Lambda)", "Terraform", "Kubernetes", "Docker"],
+  Architecture: ["Microservices", "DDD", "Clean Architecture", "Hexagonal", "System Design"],
+  Databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  DevOps: ["Jenkins", "GitHub Actions", "GitLab CI", "Helm", "Terraform"],
+  Messaging: ["Kafka", "RabbitMQ"],
+  Testing: ["JUnit", "Mockito", "Testcontainers", "Rest Assured"],
+  Tools: ["IntelliJ", "VS Code", "SonarQube", "Jira", "Confluence"],
+  Methodologies: ["Agile", "Scrum", "Kanban", "TDD", "BDD"]
 }
