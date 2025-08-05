@@ -31,7 +31,7 @@ I'm currently focused on technical leadership, systems design, platform scalabil
 ### 🧠 I’m currently:
 
 - 🔭 Driving backend architecture modernization with Java 17, Spring Boot, Docker, and Kubernetes
-- 🧭 Transitioning toward an executive technology leadership role (CTO Track)
+- 🧭 Transitioning toward an executive technology leadership role 
 - 👨‍🏫 Mentoring engineers on software architecture, team dynamics, and career growth
 - 📚 Exploring distributed systems, streaming data, and technical storytelling
 
