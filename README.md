@@ -1,23 +1,16 @@
-```{=html}
 <h1 align="center" style="color:DodgerBlue;">
-```
-Hey, I'm Adalberto Santos! 👋\
-`<br>`{=html} `<small>`{=html}Staff Backend Engineer • Engineering
-Leader • Distributed Systems Specialist`</small>`{=html}
-```{=html}
+  Hey, I'm Adalberto Santos! 👋<br>
+  <small>Staff Backend Engineer • Engineering Leader • Distributed Systems Specialist</small>
 </h1>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://www.linkedin.com/in/adalbertosantos/">`{=html}
-`<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">`{=html}
-`</a>`{=html} `<a href="https://github.com/AdeOSantos">`{=html}
-`<img src="https://img.shields.io/github/followers/AdeOSantos?label=follow&style=social">`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="https://www.linkedin.com/in/adalbertosantos/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/AdeOSantos">
+    <img src="https://img.shields.io/github/followers/AdeOSantos?label=follow&style=social">
+  </a>
 </p>
-```
 
 ------------------------------------------------------------------------
 
