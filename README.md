@@ -10,6 +10,8 @@
   <a href="https://github.com/AdeOSantos">
     <img src="https://img.shields.io/github/followers/AdeOSantos?label=follow&style=social">
   </a>
+  <a href="https://u8views.com/github/adeosantos"
+  [![Adalberto Santos profile views](https://u8views.com/api/v1/github/profiles/35299134/views/day-week-month-total-count.svg)](https://u8views.com/github/adeosantos)
 </p>
 
 ------------------------------------------------------------------------
