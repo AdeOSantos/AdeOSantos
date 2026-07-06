@@ -44,7 +44,7 @@ mentoring future tech leaders.
 -   🌐 Leading architecture & engineering for a global **industrial IoT
     platform** handling 10M+ events/day\
 -   🔥 Modernizing legacy architectures into **cloud-native
-    microservices** (Java 17, Golang, WebFlux)\
+    microservices** (Java, Golang, WebFlux)\
 -   🧭 Strengthening my executive tech leadership path (Principal →
     Director → CTO)\
 -   📘 Mastering large-scale distributed systems, observability, and
@@ -61,8 +61,8 @@ mentoring future tech leaders.
     tuning\
 -   🧩 Reduced **MTTR by 35%** via observability and incident response
     improvements\
--   🏗️ Modernized monoliths into **40+ microservices** using Java 17 +
-    Spring Boot 3 + WebFlux\
+-   🏗️ Modernized monoliths into **40+ microservices** using Java +
+    Spring Boot + WebFlux\
 -   ⚡ Introduced Golang to critical workloads → **45% latency
     improvement** & major compute savings\
 -   📦 Standardized **Kubernetes, Kafka, Redis, OpenTelemetry, GitOps**
@@ -76,7 +76,7 @@ mentoring future tech leaders.
 AdalbertoSantos:
   Languages:
     - Golang (expert)
-    - Java 8–21 (expert)
+    - Java 8 - 25 (expert)
     - TypeScript
     - Python
   Core Skills:
