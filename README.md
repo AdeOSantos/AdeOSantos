@@ -109,7 +109,7 @@ AdalbertoSantos:
 
 ## 💼 Recent Experience
 
-### **Buckman - Technical Lead LATAM (2025--Present)**
+### **Buckman - Technical Lead LATAM (2025 - Present)**
 
 -   Leading 11 engineers across LATAM on a **global industrial IoT
     platform** (10M+ events/day)
@@ -119,25 +119,25 @@ AdalbertoSantos:
     microservices**
 -   Led GitOps adoption → **60% faster deployments**
 
-### **idwall - TAM + Hands-on Staff Engineer (2023--2025)**
+### **idwall - TAM + Hands-on Staff Engineer (2023 - 2025)**
 
 -   Improved platform throughput by **40%** with Kafka + Go
     optimizations
 -   Reduced API p95 latency by **30%** using concurrency and JVM tuning
 -   Delivered new onboarding architecture with Clean Architecture + gRPC
 
-### **Andela - Staff Software Engineer (2022--2023)**
+### **Andela - Staff Software Engineer (2022 - 2023)**
 
 -   Defined Go/Java architectural standards across **6 global squads**
 -   Boosted reliability by **30%** using resilience patterns & chaos
     testing
 
-### **RGP - Engineering Manager (2018--2022)**
+### **RGP - Engineering Manager (2018 - 2022)**
 
 -   Built low-latency financial APIs → **p99 from 400ms → \<60ms**
 -   Increased engineering velocity by **35%**
 
-### **Earlier Roles (2009--2017)**
+### **Earlier Roles (2009 - 2017)**
 
 High-performance financial systems (FIX protocol, trading, HFT, Java low
 latency)
