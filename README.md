@@ -56,17 +56,18 @@ mentoring future tech leaders.
 
 ## 🏆 Engineering Impact (Highlights)
 
--   🚀 **p99 latency \< 50ms** at millions of requests per second
--   💰 **25--40% cloud cost reduction** through platform rewrites and
-    tuning
--   🧩 Reduced **MTTR by 35%** via observability and incident response
-    improvements
+-   🚀 Cut **p99 latency to under 50ms** on high-throughput services by tuning concurrency and hot paths
+-   💰 Reduced **25-40%** on rewritten platforms through right-sizing and architecture changes
+-   🧩 Lowered **MTTR ~35%** by improving observability and incident response
 -   🏗️ Modernized monoliths into **40+ microservices** using Java +
     Spring Boot + WebFlux
 -   ⚡ Introduced Golang to critical workloads → **45% latency
     improvement** & major compute savings
 -   📦 Standardized **Kubernetes, Kafka, Redis, OpenTelemetry, GitOps**
     across squads and regions
+
+
+    
 
 ------------------------------------------------------------------------
 
